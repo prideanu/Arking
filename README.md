@@ -1,4 +1,4 @@
-# ADR BOT
+# ARKKING
 
 ## Deploy To Heroku
 
@@ -6,12 +6,7 @@
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
 
-## Contact Me
 
-If you have any questions or concerns, feel free to contact me via Telegram:
-
-[![Telegram Channel](https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram)](https://telegram.dog/Adrenalinators)
-[![Telegram Group](https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram)](https://telegram.dog/Adrenalinators)
 
 ### .env
 ```sh
